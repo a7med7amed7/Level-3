@@ -1,0 +1,1 @@
+{"name":"Local: BFS","url":"/home/ahmed/Level 3 Damanhour/Graphs/DFS - BFS/BFS.cpp","tests":[{"id":1712005173880,"input":"5 4 1\n1 2\n1 4\n4 3\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ahmed/Level 3 Damanhour/Graphs/DFS - BFS/BFS.cpp","group":"local","local":true}
