@@ -1,0 +1,1 @@
+{"name":"Local: Kahn's algorithm","url":"/home/ahmed/Level 3 Damanhour/Graphs/DFS - BFS/Kahn's algorithm.cpp","tests":[{"id":1712007406267,"input":"5 4\n1 3\n1 4\n3 5\n3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ahmed/Level 3 Damanhour/Graphs/DFS - BFS/Kahn's algorithm.cpp","group":"local","local":true}
